@@ -1,0 +1,1 @@
+Exercise on Vars and if statements and loops
